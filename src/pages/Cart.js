@@ -8,7 +8,7 @@ import CartItem from '../components/cart/CartItem';
 import axios from "axios"
 
 const url = "https://ecommpay-backend.herokuapp.com/pay"
-const currency = "INR"
+const currency = "EUR"
 
 const Cart = () => {
 
